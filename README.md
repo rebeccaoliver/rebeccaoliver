@@ -4,20 +4,21 @@
 🎓 Estudante de **Técnico em Informática** no Instituto Federal do Ceará (IFCE). 
 🎸 Musicista nas horas vagas.
  
-##📚O que estou estudando
+## 📚O que estou estudando
 Atualmente, estou aprendendo e me desenvolvendo nas seguintes tecnologias:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 
 ## Interesses
 - 🎮 **Tetris** 
 - 🎶 **Música**
 - ⚙️ **Eletrônica**
 
-##💼Objetivos
+## 💼Objetivos
 Quero seguir carreira em **Engenharia Mecatrônica**, integrando minhas habilidades em software, eletrônica e mecânica para criar soluções inovadoras.
 
 ## Onde me encontrar
