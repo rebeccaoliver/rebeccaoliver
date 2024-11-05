@@ -1,7 +1,7 @@
 # Oii, eu sou a Rebecca Oliveira!
 
 ## Sobre Mim
-🎓 **Estudante de Técnico em Informática** no Instituto Federal do Ceará (IFCE).
+🎓 **Estudante de Técnico em Informática** no Instituto Federal do Ceará **(IFCE)**.
 
 🎸 **Musicista** nas horas vagas.
  
