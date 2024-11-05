@@ -24,6 +24,6 @@ Quero seguir carreira em **Engenharia Mecatrônica**, integrando minhas habilida
 
 ## Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-oliveira-9b7b63232/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rebeccafeitosa.oc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:rebeccafeitosa.oc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rebeccaoli._/?next=%2F)
 
